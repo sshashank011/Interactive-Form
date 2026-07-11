@@ -53,7 +53,7 @@ It demonstrates how HTML, CSS, and JavaScript can be combined to create a profes
 ## 🏠 Home Page
 
 <p align="center">
-<img src="assets/home.png" width="900">
+<img src="home.png" width="900">
 </p>
 
 ---
@@ -61,7 +61,7 @@ It demonstrates how HTML, CSS, and JavaScript can be combined to create a profes
 ## 📝 Registration Details
 
 <p align="center">
-<img src="assets/details.png" width="900">
+<img src="Details.png" width="900">
 </p>
 
 ---
@@ -69,7 +69,7 @@ It demonstrates how HTML, CSS, and JavaScript can be combined to create a profes
 ## 🔐 Password Validation
 
 <p align="center">
-<img src="assets/password.png" width="900">
+<img src="password.png" width="900">
 </p>
 
 ---
