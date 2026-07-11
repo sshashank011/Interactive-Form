@@ -61,7 +61,7 @@ It demonstrates how HTML, CSS, and JavaScript can be combined to create a profes
 ## 📝 Registration Details
 
 <p align="center">
-<img src="Details.png" width="900">
+<img src="registration.png" width="900">
 </p>
 
 ---
