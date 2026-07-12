@@ -13,7 +13,7 @@ A modern, responsive and interactive registration form built using <b>HTML</b>, 
 🚀 Live Demo
 
 <p align="center">
-  <a href="https://sshashank011.github.io/Interactive-Registration-Form/" target="_blank">
+  <a href="https://sshashank011.github.io/Interactive-Form/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-blue?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
